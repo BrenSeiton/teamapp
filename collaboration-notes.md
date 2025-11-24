@@ -4,6 +4,6 @@
 
 Angel Mae Torres: I clone the repository 
                   then added the Login-UI 
-                  which i comment the title and the description
-                  and then go to the pull request 
-                  which i merge the pull request.
+                  and i open the pull request and perform the step
+                  and then i comment the title and the description
+                  and then i merge the pull request.
