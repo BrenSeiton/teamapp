@@ -9,3 +9,11 @@ Angel Mae Torres: I cloned the repository
                   and i open the pull request and perform the step
                   and then i comment the title and the description
                   and then i merge the pull request.
+
+Brendan Seiton - Created a Repository
+		 I cloned the repository in the terminal first 
+	         Then added a feature branch to the project
+		 And then commit 
+		 Added title and Description to the changes
+		 Reviewed each PR
+		 aprroved and merge conflicts 
